@@ -1,2 +1,2 @@
 # KPI-Card
-Ce travail permet de mesurer l'efficacité des stratégie de contenu...
+Ce travail permet de mesurer l'efficacité des stratégie de contenu...la croissance de l’audience et analyser les interactions. Inspiré par le travail d’Injae Park, qui lui-même a pris référence sur Gustave Dudek, ce projet inclut des cartes KPI, des graphiques, et des codes DAX. Pour maîtriser ce type d’analyse, je recommande les chaînes SQLBI (Marco Russo, Alberto Ferrari, Kurt Buhler) et Guy in a Cube.
